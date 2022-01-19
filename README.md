@@ -34,11 +34,9 @@
 #
 
 <p align="center">
-  <a>
     <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WebAditya1&theme=dark&hide_border=true"/>
     <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
-  </a>
 </p>
 
 #
@@ -74,19 +72,14 @@
 </summary>
 <br>
 
-<div display="flex">
+<p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=WebAditya1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Aditya Github Stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebAditya1&text_color=D3D3D3&bg_color=000000&title_color=7A7ADB&langs_count=15&layout=compact&hide_border=true" />
 </details>
-</div>
+</p>
 <br>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=WebAditya1&theme=react-dark&hide_border=true&area=true)
-
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/WebAditya1/WebAditya1/blob/main/github-contribution-grid-snake.svg)
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
-<br/>
 
 <h1>
   Connect With Me
@@ -134,62 +127,9 @@
 </p>
 
 <br/>
-<br/>
-
-<p align="center">
-  <a href="https://archiveprogram.github.com/">
-    <img alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚛𝚌𝚝𝚒𝚌 𝚅𝚊𝚞𝚕𝚝 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛" src = "https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/arctic.gif" width="100px" height="100px">
-  </a>
-</p>
-
-
-<div align="center">
-
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-
-</div>
 
 #
 
-![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
+**Credits**: [Aditya Budhia](https://github.com/WebAditya1)
 
-
------
-**Credits**: [JayantGoel001](https://github.com/JayantGoel001)
-
-**Last Edited on**: 24/06/2021
-
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 🔭 &nbsp; I’m currently learning DSA
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Enginnering at IIIT Vadodara.
-- 💼 &nbsp; Front-end web developer.
-- 👯 We can connect on [Chess.com](https://www.chess.com/member/ayushchandil)♟ to play some games.
-- ✍️ &nbsp; Watching Movies and reading books.
-- ☕ &nbsp; I believe, a perfect cup of Tea can be the ultimate solution for any stress. 
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Java | C++ | HTML | CSS | JavaScript | React
-- 🛢 &nbsp; MySQL
-- 🔧 &nbsp; Visual Studio code | Eclipse
-
-
-<br>
-
-<!-- ![souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=devSouvik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush-chandil&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ayush Github Stats">
-
-</br>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-chandil&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/ayush-chandil/github-readme-stats)
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
- &nbsp; <a href="https://www.linkedin.com/in/ayush-chandil/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:ayushchandil553@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
-
+**Last Edited on**: 19/01/2022

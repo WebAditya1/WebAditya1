@@ -79,8 +79,6 @@
 </p>
 <br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=WebAditya1&theme=react-dark&hide_border=true&area=true)
-
 <h1>
   Connect With Me
   <a target="_blank">
